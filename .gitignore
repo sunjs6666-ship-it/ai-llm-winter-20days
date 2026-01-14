@@ -1,0 +1,12 @@
+# JetBrains IDE 配置文件
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Python 缓存文件
+__pycache__/
+*.pyc
+
+# 操作系统隐藏文件
+Thumbs.db
